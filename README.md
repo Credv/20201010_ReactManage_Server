@@ -6,8 +6,8 @@
 
 #### 安装教程
 
-1.  Fork 本仓库
-2.  Fork 客户端 https://github.com/Credv/20201010_ReactManage.git
+1.  clone 本仓库
+2.  clone 客户端 https://github.com/Credv/20201010_ReactManage.git
 3.  下载mongodb
 
 #### 使用说明
